@@ -1,5 +1,5 @@
 {
-  "name": "docker",
+  "name": "opensky-deploy-ipfs-docker",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Entreprenerd",

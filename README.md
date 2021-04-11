@@ -1,6 +1,6 @@
-# PandoraCMS Deploy Docker
+# OpenSky Deploy IPFS Docker
 
-Deploy a new decentralized blog to IPFS, using Pandora CMS
+Deploy a new decentralized blog to IPFS, using OpenSky CMS
 
 Simple Docker Image that:
 Fetches the Default Blog Template
